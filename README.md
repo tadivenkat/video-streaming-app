@@ -1,4 +1,4 @@
-# A Video Streaming application using Micoservices architecture
+# A Video Streaming Micoservice
 ## Getting started
 ```
 $ cd into the project directory
