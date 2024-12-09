@@ -2,9 +2,9 @@
 ## Getting started
 ```
 $ cd into the project directory
-$ touch .env
-You can copy the properties from .env.sample (which is committed as part of this repository)
-Provide the required values for all the properties in .env
+$ export PORT=<port>
+$ export VIDEO_STORAGE_HOST=<video_storage_host>
+$ export VIDEO_STORAGE_PORT=<video_storage_port>
 $ npm install
 $ npm start
 ```
